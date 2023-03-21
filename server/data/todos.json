@@ -1,0 +1,97 @@
+{
+  "26f2e207-c6d9-4ebe-ae7b-bc44c1c2d5fa": {
+      "text": "Do laundry",
+      "isCompleted": true,
+      "_id": "26f2e207-c6d9-4ebe-ae7b-bc44c1c2d5fa"
+  },
+  "46a06429-836e-464c-8b2c-4e8d47f1b6c9": {
+      "text": "Vacuum floor",
+      "isCompleted": false,
+      "_id": "46a06429-836e-464c-8b2c-4e8d47f1b6c9"
+  },
+  "9bfa2573-8f9a-4d04-a658-7b108827adf4": {
+      "text": "Feed cat",
+      "isCompleted": true,
+      "_id": "9bfa2573-8f9a-4d04-a658-7b108827adf4"
+  },
+  "5969535a-25ae-4373-945d-97383c13851b": {
+      "text": "Change light bulbs",
+      "isCompleted": false,
+      "_id": "5969535a-25ae-4373-945d-97383c13851b"
+  },
+  "197d4b77-55b9-4481-add4-e5b08dc7968a": {
+      "text": "Go to Store",
+      "isCompleted": true,
+      "_id": "197d4b77-55b9-4481-add4-e5b08dc7968a"
+  },
+  "42717aa7-7d51-46f0-bdf4-fc706c71c54e": {
+      "text": "Fill gas tank",
+      "isCompleted": true,
+      "_id": "42717aa7-7d51-46f0-bdf4-fc706c71c54e"
+  },
+  "ecf14a8d-b4bf-4b30-854d-e308de721b1d": {
+      "text": "Change linens",
+      "isCompleted": false,
+      "_id": "ecf14a8d-b4bf-4b30-854d-e308de721b1d"
+  },
+  "ffbb5225-dcf8-4183-bab1-eb5671e53d79": {
+      "text": "Rake leaves",
+      "isCompleted": true,
+      "_id": "ffbb5225-dcf8-4183-bab1-eb5671e53d79"
+  },
+  "46db21f6-80e3-4b42-b4be-e8c406882d24": {
+      "text": "Bake Cookies",
+      "isCompleted": false,
+      "_id": "46db21f6-80e3-4b42-b4be-e8c406882d24"
+  },
+  "9abf0a93-9aa8-435e-bb5b-2b9678a7925b": {
+      "text": "Take nap",
+      "isCompleted": true,
+      "_id": "9abf0a93-9aa8-435e-bb5b-2b9678a7925b"
+  },
+  "767d1a94-58ca-48e2-bddf-18f4b7af35f3": {
+      "text": "Read book",
+      "isCompleted": true,
+      "_id": "767d1a94-58ca-48e2-bddf-18f4b7af35f3"
+  },
+  "7970923a-46fc-49fb-b1db-d378ad5c1fcd": {
+      "text": "Exercise",
+      "isCompleted": false,
+      "_id": "7970923a-46fc-49fb-b1db-d378ad5c1fcd"
+  },
+  "ce08dcd7-cb97-4692-afc4-eee9888c3be9": {
+      "text": "Give dog a bath",
+      "isCompleted": false,
+      "_id": "ce08dcd7-cb97-4692-afc4-eee9888c3be9"
+  },
+  "e38f1b35-0519-4a03-9e12-acdc2450da2f": {
+      "text": "Do laundry",
+      "isCompleted": false,
+      "_id": "e38f1b35-0519-4a03-9e12-acdc2450da2f"
+  },
+  "51a27e00-abfa-4cb8-8ba5-4f137e977f70": {
+      "text": "Vacuum floor",
+      "isCompleted": false,
+      "_id": "51a27e00-abfa-4cb8-8ba5-4f137e977f70"
+  },
+  "034e0156-c8ca-4585-8b95-8083a4775ec8": {
+      "text": "Feed cat",
+      "isCompleted": true,
+      "_id": "034e0156-c8ca-4585-8b95-8083a4775ec8"
+  },
+  "b8e1f198-fadb-412b-9bed-114692fdcff0": {
+      "text": "Change light bulbs",
+      "isCompleted": false,
+      "_id": "b8e1f198-fadb-412b-9bed-114692fdcff0"
+  },
+  "b262f1a9-b7b4-42e1-a837-2e03e59ba4de": {
+      "text": "Go to Store",
+      "isCompleted": false,
+      "_id": "b262f1a9-b7b4-42e1-a837-2e03e59ba4de"
+  },
+  "6ae7e5e8-6590-4fbd-b9e8-2d3e71694a18": {
+      "text": "Fill gas tank",
+      "isCompleted": false,
+      "_id": "6ae7e5e8-6590-4fbd-b9e8-2d3e71694a18"
+  }
+}
